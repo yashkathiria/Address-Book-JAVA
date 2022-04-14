@@ -1,0 +1,6 @@
+Name,Surname,Phone,Mobile,E-mail,Street,Number,Town,Zip
+Yash,Kathiria,210123456,123456,yashkathiria@mail.com,Newstrt,1,Athens,1234
+Krish,Dhorajiya,210234567,123987,kishu@gmail.com,Oldstrt,21,London,5553
+Raju,Tejani,21099999,999999,rujubhai@mail.com,Thisstrt,9,Boston,5432asdfasd,aefgaerfa,165465,1565,51,76,surat,1
+Bluetick,Patel,2125443,156113,bluetickcoder@gmail.com,dahod,9,1565,,21,21,gujarat,1
+Zooya,Ramani,1324564,321564,zooyaramani@gamil.com,fakjdshf,10,1654,1321654
